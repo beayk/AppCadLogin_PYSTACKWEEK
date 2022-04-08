@@ -1,2 +1,2 @@
-# TelaCadastroLogin_PYSTACKWEEK
+# AppCadLogin_PYSTACKWEEK
 Projeto realizado a partir das aulas da PYSTACK WEEK.
